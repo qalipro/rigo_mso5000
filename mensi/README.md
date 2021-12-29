@@ -1,5 +1,5 @@
 
-[Go to Real Cool Heading section](#real-cool-heading)
+[Go to PART 2 ](#PART2)
 
 I've had a Rigol MSO5074 oscilloscope for a while now, and while unlocking all options has already been achieved over at the eevblog forums, I've always wanted to poke around a bit myself.
 
