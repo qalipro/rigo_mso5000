@@ -1,6 +1,8 @@
 
 [Go to PART 2 ](#PART2)
 
+[Go to Frame Buffer ](#looking-at-the-frame-buffer)
+
 I've had a Rigol MSO5074 oscilloscope for a while now, and while unlocking all options has already been achieved over at the eevblog forums, I've always wanted to poke around a bit myself.
 
 I'm going to do this on a fresh Ubuntu 20.10 install - mainly because most tools are just an apt-get install away.
